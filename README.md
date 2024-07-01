@@ -1,8 +1,11 @@
 # 🚀 Nexus Social Media 🚀
+![login](https://github.com/akshayskurup/Nexus/assets/70994724/b2223608-e45c-4378-b443-d2e33102466b)
+![home](https://github.com/akshayskurup/Nexus/assets/70994724/3d71ad33-189d-4c53-836b-abe9bfd89d48)
+![explore](https://github.com/akshayskurup/Nexus/assets/70994724/a35bbdb7-61b2-4b0b-9944-c4258a44c910)
+![myProfile](https://github.com/akshayskurup/Nexus/assets/70994724/66444e15-ce80-4d39-9114-ca8809730483)
+![assistant](https://github.com/akshayskurup/Nexus/assets/70994724/9e2dbd16-48e7-40e2-badc-fcc18697121b)
 
 Welcome to the coolest full-stack project on GitHub! 🎉
-
-![Coding Gif](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
 ## 🏗️ What's Inside?
 
